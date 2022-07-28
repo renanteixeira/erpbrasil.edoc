@@ -424,7 +424,7 @@ UFMS = {
             WS_NFE_CADASTRO: 'ws/CadConsultaCadastro4',
         },
         AMBIENTE_HOMOLOGACAO: {
-            'servidor': 'hom.nfe.sefaz.ms.gov.br',
+            'servidor': 'https://hom.nfe.sefaz.ms.gov.br',
             WS_NFE_INUTILIZACAO: 'ws/NFeInutilizacao4',
             WS_NFE_CONSULTA: 'ws/NFeConsultaProtocolo4',
             WS_NFE_SITUACAO: 'ws/NFeStatusServico4',
